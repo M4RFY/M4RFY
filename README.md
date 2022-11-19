@@ -1,8 +1,7 @@
 <!-- RAINBOW -->
 <img src="https://cdn.discordapp.com/attachments/1003822642379374703/1043323241839722496/line-neon.gif" width="100%">
 
-<!-- IMG -->
-<img src="https://cdn.discordapp.com/attachments/1003822642379374703/1043341525783957524/m3rfy.png">
+
 
 <!-- LABEL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m4rfy&label=Profile%20views&color=0e75b6&style=flat" alt="marfy" /> </p>

@@ -16,7 +16,7 @@
 ---
 
 <!-- IMG -->
-<img src="https://cdn.discordapp.com/attachments/1003822642379374703/1043341525456781372/rsz_gta.png">
+<img src="https://media.discordapp.net/attachments/1003822642379374703/1157405257937211552/mrf.png">
 
 <!-- RAINBOW -->
 <img src="https://cdn.discordapp.com/attachments/1003822642379374703/1043323241839722496/line-neon.gif" width="100%">

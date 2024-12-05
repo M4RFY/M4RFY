@@ -1,16 +1,36 @@
-## Hi there 👋
+# 🌟 About Me
+Hi, I’m a **FiveM server developer** with experience in creating and managing roleplay servers.  
+- Previously contributed to **Generation Roleplay Bangladesh (GRP V5, V5.5, V6)**.  
+- Currently working on:  
+  - **Halka Gorib Roleplay** (the first Bangladeshi server).  
+  - **Universe Roleplay** (a private project).  
 
-<!--
-**M4RFY/M4RFY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🛠️ Tech Stack
+- **Languages:**  
+  ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frameworks & Tools:**  
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+  ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) 
+  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
+
+- **Database:**  
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+
+---
+
+# 📊 Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M4RFY&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4RFY&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
+</div>
+
+---
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=M4RFY&icon=2&color=9)

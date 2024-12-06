@@ -21,15 +21,13 @@ Hi, I’m a **FiveM server developer** with experience in creating and managing 
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
 
 - **Database:**  
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ---
 
 # 📊 Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M4RFY&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  ![](https://github-readme-stats.vercel.app/api?username=M4RFY&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=M4RFY&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=M4RFY&icon=2&color=9)

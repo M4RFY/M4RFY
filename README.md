@@ -21,12 +21,4 @@ Hi, I’m a **FiveM server developer** with experience in creating and managing 
 
 - **Database:**  
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-
----
-
-# 📊 Stats
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=M4RFY&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="49.5%"/>  
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4RFY&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" width="49.5%"/>   -->
-</div>
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)

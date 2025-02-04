@@ -28,5 +28,5 @@ Hi, I’m a **FiveM server developer** with experience in creating and managing 
 # 📊 Stats
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=M4RFY&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="49.5%"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4RFY&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" width="49.5%"/>  
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4RFY&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" width="49.5%"/>   -->
 </div>

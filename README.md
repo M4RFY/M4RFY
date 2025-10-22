@@ -1,9 +1,10 @@
 # 🌟 About Me
 Hi, I’m a **FiveM server developer** with experience in creating and managing roleplay servers.  
-- Previously contributed to **Generation Roleplay Bangladesh (GRP V5, V5.5, V6), Halka Gorib**.
+- Previously contributed to **Generation Roleplay Bangladesh (GRP V5, V5.5, V6)**.
 - Currently working on:   
   - **Universe Roleplay**.  
   - **DLRP**.  
+  - **Halka Gorib**.  
 
 ---
 
